@@ -1,0 +1,254 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav {
+    background-color: #ffffff;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    
+    ul {
+    display: flex;
+    align-items: center;
+    padding: 0px 20px;
+    list-style: none;
+    li {
+        padding: 0px 20px;
+    }
+}
+}
+
+.header {
+    background-color: #1a73e8;
+    padding: 50px 100px;
+     margin-left: -80px;
+     color: white;
+}
+
+div {
+    align-items: center;
+}
+input {
+    border: 2px solid transparent;
+    text-align: center;
+    padding: 7px;
+    border-radius: 20px;
+    background-color: #f5f6f7;
+    cursor: pointer;
+}
+select {
+    padding: 20px 5px;
+    border: 2px solid ;
+    cursor: pointer;
+    
+}
+button {
+    padding: 10px 20px;
+    border: 2px solid transparent;
+    border-radius: 30px;
+    cursor: pointer;
+    background-color: transparent;
+}
+
+.berry {
+    padding: 70px 70px;
+    display: flex;
+    justify-content: space-between;
+    margin: 75px;
+    gap: 30px;
+}
+h2 {
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 72px;
+    padding-bottom: 20px;
+}
+p {
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 1.5;
+}
+
+.home-three {
+display: flex;
+justify-content: space-between;
+gap: 20px;
+padding: 40px 40px;
+margin: 90px;
+div {
+    background-color: #f5f6f7;
+    padding: 30px 20px;
+    width: 30%;
+    align-items: center;
+    text-align: center;
+    border-radius: 10px;
+}
+
+
+h3 {
+    a {
+        text-decoration: none;
+        color: black;
+        
+    }
+    
+    
+}
+
+}
+.man {
+display: flex;
+justify-content: space-between;
+margin-left: 40px;
+
+}
+.btn {
+color: #1a73e8;
+border: 3px solid #185abc;
+padding: 20px 70px;
+cursor: pointer;
+margin: 50px;
+}
+.yolo {
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+    margin: 90px;
+    padding: 40px 40px;
+    
+}
+.good {
+    a {
+        text-decoration: none;
+        color: black;
+        margin-top: 30px;
+        font-size: 20px;
+    }
+    
+}
+.why {
+    a {
+        text-decoration: none;
+        color: black;
+        margin-top: 30px;
+        font-size: 20px;
+    }
+    
+}
+.loop {
+    a {
+        text-decoration: none;
+        color: black;
+        margin-top: 30px;
+        font-size: 20px;
+    }
+}
+.boy {
+    display: flex;
+    justify-content: space-between;
+    margin: 40px;
+    padding: 30px;
+    margin-top: 50px;
+    padding-bottom: 0px;
+}
+.but {
+    color: #1a73e8;
+    border: 3px solid #185abc;
+    padding: 20px 70px;
+    cursor: pointer;
+}
+.bingo {
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+    padding: 40px 40px;
+    margin: 90px;
+    
+    
+}
+
+.you {
+    color: #1a73e8;
+    border: 3px solid #185abc;
+    margin-top: 30px;
+    padding: 15px 50px;
+}
+.row1 {
+    a {
+        text-decoration: none;
+        color: black;
+        margin-top: 30px;
+        font-size: 64px
+    }
+}
+.row2 {
+    a {
+        text-decoration: none;
+        color: black;
+        margin-top: 30px;
+        font-size: 64px;
+    }
+}
+.put {
+    color: #1a73e8;
+    border: 3px solid  #185abc;
+    margin-top: 30px;
+    padding: 15px 50px;
+}
+.row3 {
+    a {
+        text-decoration: none;
+        color: black;
+        margin-top: 30px;
+        font-size: 64px;
+    }
+}
+.top {
+    color: #1a73e8;
+    border: 3px solid #185abc;
+    margin-top: 30px;
+    padding: 15px 50px;
+}
+.random-div {
+    background-color: #f5f6f7;
+    margin-top: 20px;
+    padding-bottom: 30px;
+    padding-top: 90px;
+}
+.bot1 {
+    margin-top: -20px;
+    margin-left: 40px;
+    font-size: 55px;
+    letter-spacing: -1px;
+    word-spacing: 3px;
+    font-size: 70px;
+    font-weight: 300;
+    color: rgb(37 37 37 );
+}
+.btn1 {
+    display: block;
+    margin-top: 250px;
+    padding: 20px;
+    border: 3px solid #1a73e8;
+    background-color: transparent;
+    color: #185abc;
+    cursor: pointer;
+    font-size: 18px;
+    width: 300px;
+    margin-right: 400px;
+    white-space: nowrap;
+    
+}
+
+
+
+
+
+ 
+
+
+
