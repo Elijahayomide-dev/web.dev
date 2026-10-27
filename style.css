@@ -7,9 +7,15 @@
 
 nav {
     background-color: #ffffff;
-    padding: 20px;
+    padding: 10px;
     display: flex;
     justify-content: space-between;
+    position: fixed;
+    right: 0px;
+    left: 0px;
+    top: 0px;
+    
+
     
     ul {
     display: flex;
@@ -27,6 +33,7 @@ nav {
     padding: 50px 100px;
      margin-left: -80px;
      color: white;
+     margin-top: 150px;
 }
 
 div {
@@ -41,17 +48,22 @@ input {
     cursor: pointer;
 }
 select {
-    padding: 20px 5px;
-    border: 2px solid ;
+    background-image: url(./image/jam--world.svg);
+    background-repeat: no-repeat;
+    background-position: 0% 50%;
+    padding: 9px 20px;
+    border: 1px solid #f5f6f7;
     cursor: pointer;
     
 }
-button {
-    padding: 10px 20px;
+.btn7 {
+    padding: 20px;
     border: 2px solid transparent;
     border-radius: 30px;
     cursor: pointer;
     background-color: transparent;
+    color: black;
+    
 }
 
 .berry {
@@ -112,6 +124,7 @@ border: 3px solid #185abc;
 padding: 20px 70px;
 cursor: pointer;
 margin: 50px;
+border-radius: 30px;
 }
 .yolo {
     display: flex;
@@ -160,6 +173,7 @@ margin: 50px;
     border: 3px solid #185abc;
     padding: 20px 70px;
     cursor: pointer;
+    border-radius: 30px;
 }
 .bingo {
     display: flex;
@@ -176,6 +190,7 @@ margin: 50px;
     border: 3px solid #185abc;
     margin-top: 30px;
     padding: 15px 50px;
+    border-radius: 30px;
 }
 .row1 {
     a {
@@ -198,6 +213,7 @@ margin: 50px;
     border: 3px solid  #185abc;
     margin-top: 30px;
     padding: 15px 50px;
+    border-radius: 30px;
 }
 .row3 {
     a {
@@ -212,6 +228,7 @@ margin: 50px;
     border: 3px solid #185abc;
     margin-top: 30px;
     padding: 15px 50px;
+    border-radius: 30px;
 }
 .random-div {
     background-color: #f5f6f7;
@@ -231,7 +248,7 @@ margin: 50px;
 }
 .btn1 {
     display: block;
-    margin-top: 250px;
+    margin-top: 100px;
     padding: 20px;
     border: 3px solid #1a73e8;
     background-color: transparent;
@@ -241,8 +258,89 @@ margin: 50px;
     width: 300px;
     margin-right: 400px;
     white-space: nowrap;
+    border-radius: 30px;
     
 }
+.random-article {
+    display: flex;
+    background-color: #ffffff;
+    padding-top: 50px;
+    
+    padding-bottom: 50px;
+}
+.r-child {
+    margin-right: 90px;
+    font-size: 21px;
+    line-height: 1.5;
+}
+button {
+    
+    color: #1a73e8;
+    background-color: #ffffff;
+    border: 3px solid #185abc;
+    font-size: 16px;
+    font-weight: 600;
+    padding: 15px 50px;
+    margin-top: 30px;
+    margin-left: 40px;
+    border-radius: 30px;
+    cursor: pointer;
+
+}
+.parent1 {
+    display: flex;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.bandit {
+    margin-right: 90px;
+    font-size: 21px;
+    line-height: 1.5;
+}
+.nike-2 {
+    background-color: #ffffff;
+    display: flex;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.bobo-2 {
+    margin-right: 90px;
+    font-size: 21px;
+    line-height: 1.5;
+}
+.pin-2 {
+    display: flex;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.die-2 {
+    margin-right: 90px;
+    font-size: 21px;
+    line-height: 1.5;
+}
+.cat-2 {
+    background-color: #ffffff;
+    display: flex;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.egg-2 {
+    margin-right: 90px;
+    font-size: 21px;
+    line-height: 1.5;
+}
+.dad-2 {
+    display: flex;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.son-2 {
+    margin-right: 90px;
+    font-size: 21px;
+    line-height: 1.5;
+}
+
+
 
 
 
